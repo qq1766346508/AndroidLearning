@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button 1"
+        />
+    <!--浏览器按钮-->
+    <Button
+        android:id="@+id/button_1_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button 1_1 点击前往百度"
+        />
+    <!--拨号按钮-->
+    <Button
+        android:id="@+id/button_1_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button 1_2 点击拨号"
+        />
+    <Button
+        android:id="@+id/button_999"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button 999"
+        />
+
+</LinearLayout>
